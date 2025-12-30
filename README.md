@@ -4,6 +4,14 @@ Secure Web Management System using Django
 
 This project is a secure web-based task management system developed using Django as part of the Secure Software Development course.
 
+## Installation Steps
+1. Clone the repository
+2. Create a virtual environment
+3. Install dependencies:
+4. Create `.env` file based on `.env.example`
+5. Run migrations:
+6. Run server:
+   
 ## Features
 - User registration and authentication
 - Role-Based Access Control (Admin & User)
@@ -18,13 +26,17 @@ This project is a secure web-based task management system developed using Django
 - Access control enforcement
 - Audit logs (admin only)
 
-## Installation Steps
-1. Clone the repository
-2. Create a virtual environment
-3. Install dependencies:
-4. Create `.env` file based on `.env.example`
-5. Run migrations:
-6. Run server:
+## How to Run the Application
+
+### Prerequisites
+- Python 3.10 or above
+- pip (Python package manager)
+- Virtual environment (recommended)
+
+### Steps to Run
+
+1. Clone the repository:
+
 
 ## Dependencies
 - Django
