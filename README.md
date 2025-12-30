@@ -22,9 +22,9 @@ This project is a secure web-based task management system developed using Django
 1. Clone the repository
 2. Create a virtual environment
 3. Install dependencies:
-4. 4. Create `.env` file based on `.env.example`
+4. Create `.env` file based on `.env.example`
 5. Run migrations:
-6. 6. Run server:
+6. Run server:
 
 ## Dependencies
 - Django
