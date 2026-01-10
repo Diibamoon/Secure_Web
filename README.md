@@ -31,25 +31,39 @@ This project is a secure web-based task management system developed using Django
 ### Prerequisites
 - Python 3.10 or above
 - pip (Python package manager)
-- Virtual environment (recommended)
+- Visual Studio Code (VS Code)
 
 ### Steps to Run
 
 1. Clone the repository:
    https://github.com/Diibamoon/Secure_Task_Manager_Web.git
-2. Navigate to the project directory:
-3. Create and activate a virtual environment:
-4. Install required dependencies:
-5. Create environment configuration file:
-- Copy `.env.example`
-- Rename it to `.env`
-- Configure required values
+2. Extract file to desktop (filename: secure_web)
+3. Open Visual Studio Code (VS Code).
+4. Open "secure_web" project folder in VS Code.
+5. Run the Project in terminal : "cd secure_web"
+6. Run command "pip install django"
+7. Run command "pip install pyhton-dotenv"
+8. Run command "python manage.py runserver"
+9. Open browser "https://127.0.0.1:8000/login/"
 
-6. Apply database migrations:
-7. Create admin account:
-8. Run the application:
-9. Open browser and access:
-    http://127.0.0.1:8000/
+Once the Web Application appear http://127.0.0.1:8000/login/
+
+1. Register username and creat password.
+2. Login in to account.
+3. Complete your tasks.
+4. What you can see in the system as User are:
+   - Details of your infomation
+   - Edit and delete tasks
+5. In the same web and account try to log in to audit log as User http://127.0.0.1:8000/audit-log/
+6. It is Forbidden
+7. What you can see in the system as Admin are:
+   - User log in lists
+   - Authorise/ staff person
+   - Manage User accounts
+   - Manage to see audit log with Users' Username, Action and Timestamp.
+8. In the same web and account try to log in to audit log as Admin http://127.0.0.1:8000/audit-log/
+9. You will get to see the Audit Log
+
 ---
 ### Default Roles
 - **Admin**: Can view audit logs and manage users
