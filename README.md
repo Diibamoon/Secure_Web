@@ -68,13 +68,22 @@ Once the Web Application appear http://127.0.0.1:8000/login/
 - Python 3.x
 
 ## Screenshots
-<img width="1160" height="875" alt="1" src="https://github.com/user-attachments/assets/ac82a02f-6c9e-49e1-93f3-cd5b21d6bf8d" />
-<img width="1162" height="873" alt="2" src="https://github.com/user-attachments/assets/18a77893-a167-42d6-91f2-fffc9bceebb9" />
-<img width="1162" height="876" alt="3" src="https://github.com/user-attachments/assets/b91bee40-4412-4462-b7a5-1c0373dad37c" />
-<img width="1162" height="875" alt="4" src="https://github.com/user-attachments/assets/00f3047f-6ac5-4f86-bded-98863ba40638" />
-<img width="1163" height="872" alt="5" src="https://github.com/user-attachments/assets/965edf36-c0b6-4b9c-a3f8-cedd59e99fad" />
-<img width="1161" height="871" alt="6" src="https://github.com/user-attachments/assets/8905f591-02b2-4406-a8eb-66c4f3b3d635" />
-<img width="1160" height="875" alt="7" src="https://github.com/user-attachments/assets/35183a49-cbc8-4a1e-b071-fdcd4a8f96bb" />
-<img width="1165" height="873" alt="8" src="https://github.com/user-attachments/assets/0eb4fa52-6c59-417e-8f92-49c1ffb1108b" />
-<img width="1162" height="872" alt="9" src="https://github.com/user-attachments/assets/5142933e-80af-4a82-aded-7b6b2e9a86b9" />
+User
+1. Create Username and Password
+<img width="1161" height="871" alt="6" src="https://github.com/user-attachments/assets/87ecd159-4093-4cd0-b161-1e92fbf20886" />
+2. Log in to the account user
+<img width="1160" height="875" alt="1" src="https://github.com/user-attachments/assets/1d14f282-da5e-4083-8cba-81fd897b6e7a" />
+3. You will see your account and the details 
+<img width="1162" height="873" alt="2" src="https://github.com/user-attachments/assets/e6297f4c-17f0-4af7-97a9-1e7e3a8ff51e" />
+4. User manage to edit and delete the tasks
+<img width="1162" height="876" alt="3" src="https://github.com/user-attachments/assets/3a641e51-0c70-43a7-8fcc-eaacaaa5c1b6" />
+5. The task has been successfully deleted
+<img width="1162" height="875" alt="4" src="https://github.com/user-attachments/assets/fb589e23-4a89-4552-b29c-b7091b59b977" />
+<img width="1162" height="872" alt="9" src="https://github.com/user-attachments/assets/9a2adf56-e0a1-4260-ad9d-4409620193e8" />
+
+
+Admin
+<img width="1163" height="872" alt="5" src="https://github.com/user-attachments/assets/8918256a-8a07-4590-910c-90b361bfb5ec" />
+<img width="1160" height="875" alt="7" src="https://github.com/user-attachments/assets/7a9b192c-f863-4641-90cf-fd1c094c7eb2" />
+<img width="1165" height="873" alt="8" src="https://github.com/user-attachments/assets/c5ed4015-4e8d-4e5a-9e5d-a84d2f0b7706" />
 
