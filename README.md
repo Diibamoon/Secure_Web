@@ -71,7 +71,7 @@ Once the Web Application appear http://127.0.0.1:8000/login/
 User
 1. Create Username and Password
 <img width="1161" height="871" alt="6" src="https://github.com/user-attachments/assets/87ecd159-4093-4cd0-b161-1e92fbf20886" />
-2. Log in to the account user
+2. Log in to the account User
 <img width="1160" height="875" alt="1" src="https://github.com/user-attachments/assets/1d14f282-da5e-4083-8cba-81fd897b6e7a" />
 3. You will see your account and the details 
 <img width="1162" height="873" alt="2" src="https://github.com/user-attachments/assets/e6297f4c-17f0-4af7-97a9-1e7e3a8ff51e" />
@@ -79,11 +79,15 @@ User
 <img width="1162" height="876" alt="3" src="https://github.com/user-attachments/assets/3a641e51-0c70-43a7-8fcc-eaacaaa5c1b6" />
 5. The task has been successfully deleted
 <img width="1162" height="875" alt="4" src="https://github.com/user-attachments/assets/fb589e23-4a89-4552-b29c-b7091b59b977" />
+6. Try to log in to Audit Log
 <img width="1162" height="872" alt="9" src="https://github.com/user-attachments/assets/9a2adf56-e0a1-4260-ad9d-4409620193e8" />
 
 
 Admin
+1. Log in to the account Admin
 <img width="1163" height="872" alt="5" src="https://github.com/user-attachments/assets/8918256a-8a07-4590-910c-90b361bfb5ec" />
+2. Admin manage to see the details of user log in lists
 <img width="1160" height="875" alt="7" src="https://github.com/user-attachments/assets/7a9b192c-f863-4641-90cf-fd1c094c7eb2" />
+3. Admin manage to log in to Audit Log
 <img width="1165" height="873" alt="8" src="https://github.com/user-attachments/assets/c5ed4015-4e8d-4e5a-9e5d-a84d2f0b7706" />
 
